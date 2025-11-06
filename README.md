@@ -31,7 +31,7 @@ Goal: Bridge educational simulation and real-world aerospace modeling — provin
 
 ---
 
-## 📊 Metrics Tracked
+##  Metrics Tracked
 - Δv budget and losses  
 - Thrust-to-Weight ratio (TWR)  
 - Payload fraction (%)  
@@ -41,7 +41,7 @@ Goal: Bridge educational simulation and real-world aerospace modeling — provin
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 Project-KERB/
 ├── data/ # Raw and processed flight CSV files
